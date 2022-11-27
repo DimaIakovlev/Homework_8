@@ -1,0 +1,15 @@
+D:\Дима\GB\3. C#\Семинары\Homework_8\Task054\bin\Debug\net6.0\Task054.exe
+D:\Дима\GB\3. C#\Семинары\Homework_8\Task054\bin\Debug\net6.0\Task054.deps.json
+D:\Дима\GB\3. C#\Семинары\Homework_8\Task054\bin\Debug\net6.0\Task054.runtimeconfig.json
+D:\Дима\GB\3. C#\Семинары\Homework_8\Task054\bin\Debug\net6.0\Task054.dll
+D:\Дима\GB\3. C#\Семинары\Homework_8\Task054\bin\Debug\net6.0\Task054.pdb
+D:\Дима\GB\3. C#\Семинары\Homework_8\Task054\obj\Debug\net6.0\Task054.csproj.AssemblyReference.cache
+D:\Дима\GB\3. C#\Семинары\Homework_8\Task054\obj\Debug\net6.0\Task054.GeneratedMSBuildEditorConfig.editorconfig
+D:\Дима\GB\3. C#\Семинары\Homework_8\Task054\obj\Debug\net6.0\Task054.AssemblyInfoInputs.cache
+D:\Дима\GB\3. C#\Семинары\Homework_8\Task054\obj\Debug\net6.0\Task054.AssemblyInfo.cs
+D:\Дима\GB\3. C#\Семинары\Homework_8\Task054\obj\Debug\net6.0\Task054.csproj.CoreCompileInputs.cache
+D:\Дима\GB\3. C#\Семинары\Homework_8\Task054\obj\Debug\net6.0\Task054.dll
+D:\Дима\GB\3. C#\Семинары\Homework_8\Task054\obj\Debug\net6.0\refint\Task054.dll
+D:\Дима\GB\3. C#\Семинары\Homework_8\Task054\obj\Debug\net6.0\Task054.pdb
+D:\Дима\GB\3. C#\Семинары\Homework_8\Task054\obj\Debug\net6.0\Task054.genruntimeconfig.cache
+D:\Дима\GB\3. C#\Семинары\Homework_8\Task054\obj\Debug\net6.0\ref\Task054.dll
